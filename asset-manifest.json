@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TBC-PBI-2/static/css/main.073c9b0a.css",
-    "main.js": "/TBC-PBI-2/static/js/main.f9d68e01.js",
+    "main.js": "/TBC-PBI-2/static/js/main.6891b088.js",
     "static/js/787.28cb0dcd.chunk.js": "/TBC-PBI-2/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/TBC-PBI-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/TBC-PBI-2/index.html",
     "main.073c9b0a.css.map": "/TBC-PBI-2/static/css/main.073c9b0a.css.map",
-    "main.f9d68e01.js.map": "/TBC-PBI-2/static/js/main.f9d68e01.js.map",
+    "main.6891b088.js.map": "/TBC-PBI-2/static/js/main.6891b088.js.map",
     "787.28cb0dcd.chunk.js.map": "/TBC-PBI-2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f9d68e01.js"
+    "static/js/main.6891b088.js"
   ]
 }
